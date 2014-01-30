@@ -1,0 +1,19 @@
+{
+  "name": "repo-has-homepage",
+  "version": "0.0.1",
+  "authors": [
+    "fabiantheblind"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.0"
+  }
+}
